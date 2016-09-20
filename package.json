@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lugithub/ld3#readme",
   "dependencies": {
+    "d3": "^4.2.4",
     "express": "^4.14.0"
   }
 }
