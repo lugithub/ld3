@@ -19,5 +19,8 @@
   "dependencies": {
     "d3": "^4.2.4",
     "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2"
   }
 }
