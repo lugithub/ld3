@@ -1,0 +1,21 @@
+body{
+  background-color: grey;
+}
+
+svg{
+  background-color: white;
+}
+
+.label{
+  font-size: 2em;
+  font-family: sans-serif;
+  fill: indigo;
+}
+
+.huge{
+  font-size: 20em;
+  font-family: sans-serif;
+  fill: yellow;
+  stroke: black;
+  stroke-width: 10px;
+}
